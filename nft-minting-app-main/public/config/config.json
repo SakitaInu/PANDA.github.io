@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbc26a71bbd0052b3909dc6117667e155f2d2e02d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0xbc26a71bbd0052b3909dc6117667e155f2d2e02d",
+  "NETWORK": {
+    "NAME": "Polygon Test net ",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Baby Panda KingDom",
+  "SYMBOL": "BPKNFT",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Testnet Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/baby-panda-kingdom",
+  "SHOW_BACKGROUND": true
+}
